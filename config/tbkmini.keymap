@@ -45,7 +45,7 @@
         combo_caps {
             timeout-ms = <50>;
             key-positions = <24 35>;
-            bindings = <&caps_word>;
+            bindings = <&kp CAPSLOCK>;
         };
 
         combo_esc {
